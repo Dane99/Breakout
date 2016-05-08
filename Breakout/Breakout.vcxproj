@@ -38,6 +38,13 @@
     <ClInclude Include="headers\input.h" />
     <ClInclude Include="headers\paddle.h" />
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="content\ball.png" />
+    <Image Include="content\block.png" />
+    <Image Include="content\gameover.png" />
+    <Image Include="content\paddle.png" />
+    <Image Include="content\win.png" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{92EF457C-F9F6-4B6B-B309-970A8A69C9F5}</ProjectGuid>
     <RootNamespace>cavestorydevelopment</RootNamespace>
