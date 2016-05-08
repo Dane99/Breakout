@@ -1,7 +1,7 @@
-#include "ball.h"
-#include "graphics.h"
-#include "globals.h"
-#include "block.h"
+#include "../headers/ball.h"
+#include "../headers/graphics.h"
+#include "../headers/globals.h"
+#include "../headers/block.h"
 
 Ball::Ball()
 {

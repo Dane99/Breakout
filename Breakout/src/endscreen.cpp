@@ -1,5 +1,5 @@
-#include "endscreen.h"
-#include "graphics.h"
+#include "../headers/endscreen.h"
+#include "../headers/graphics.h"
 
 Endscreen::Endscreen()
 {

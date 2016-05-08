@@ -1,6 +1,6 @@
-#include "paddle.h"
-#include "graphics.h"
-#include "globals.h"
+#include "../headers/paddle.h"
+#include "../headers/graphics.h"
+#include "../headers/globals.h"
 
 namespace paddle_constants {
 	const float PADDLE_SPEED = 0.4f;

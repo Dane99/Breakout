@@ -1,7 +1,7 @@
 #include <SDL.h>
 #include "SDL_image.h"
-#include "graphics.h"
-#include "globals.h"
+#include "../headers/graphics.h"
+#include "../headers/globals.h"
 
 
 /* Graphics Class

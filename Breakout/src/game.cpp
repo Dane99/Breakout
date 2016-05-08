@@ -1,12 +1,12 @@
 #include "SDL.h"
 
 #include <algorithm>
-#include "globals.h"
-#include "game.h"
-#include "graphics.h"
-#include "input.h"
-#include "ball.h"
-#include "endscreen.h"
+#include "../headers/globals.h"
+#include "../headers/game.h"
+#include "../headers/graphics.h"
+#include "../headers/input.h"
+#include "../headers/ball.h"
+#include "../headers/endscreen.h"
 #include <cstdlib> 
 
 

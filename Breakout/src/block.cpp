@@ -1,5 +1,5 @@
-#include "block.h"
-#include "graphics.h"
+#include "../headers/block.h"
+#include "../headers/graphics.h"
 
 Block::Block()
 {
